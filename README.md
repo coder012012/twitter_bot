@@ -1,1 +1,3 @@
 # twitter_bot
+This is a simple twitter bot that retweets, likes and replies if the bot account is mentioned in the tweet with a specific hashtag.
+More functionalities are to be added in this bot later...
